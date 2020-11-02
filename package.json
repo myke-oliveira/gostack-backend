@@ -1,0 +1,12 @@
+{
+  "name": "gostack-backend",
+  "version": "1.0.0",
+  "description": "First Project of Bootcamp Gostack",
+  "main": "index.js",
+  "author": "Myke Albuquerque Pinto de Oliveira",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
